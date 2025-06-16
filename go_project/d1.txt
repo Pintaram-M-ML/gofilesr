@@ -1,0 +1,4 @@
+fork
+clone 
+git remote add upstream originial_owners_url
+git fetch upstream
